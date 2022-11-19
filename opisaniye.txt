@@ -21,6 +21,8 @@
 10. git push -u aboba2 main 
 11. git remote rm aboba2
 11. git remote add aboba https://github.com/Ainzak/homework-IIT.git
+11. git add report.txt
+11. git commit -m "Update report.txt"
 11. git add opisaniye.txt
 11. git commit -m "добавлено описание"
 11. git push -u aboba master
