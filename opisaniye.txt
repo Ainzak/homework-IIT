@@ -1,0 +1,26 @@
+1. я нажал кнопку скачать, затем нажал кнопку установить
+2. cd E:
+2. git init homework
+4. git add report.txt
+4. git commit -m "создан отчёт"
+5. git checkout -b report
+5. git add report.txt
+5. git commit -m "добавлен 5й пункт"
+6. git checkout master
+6. git merge report
+7. git remote add aboba https://github.com/Ainzak/homework-IIT.git
+7. git push -u aboba master
+7. git push -u aboba report
+8. git add report.txt
+8. git commit -m "добавлен 8й пункт"
+10. git init ainzak.github.io
+10. git add .
+10. git commit -m "1"
+10. git remote rm aboba
+10. git remote add aboba2 https://github.com/Ainzak/ainzak.github.io.git
+10. git push -u aboba2 main 
+11. git remote rm aboba2
+11. git remote add aboba https://github.com/Ainzak/homework-IIT.git
+11. git add opisaniye.txt
+11. git commit -m "добавлено описание"
+11. git push -u aboba master
